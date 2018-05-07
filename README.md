@@ -1,3 +1,3 @@
 # ServerGBNews
 
-- WebSockets server in nodejs
+- WebService nodeJs with mongoDB
